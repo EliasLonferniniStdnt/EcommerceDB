@@ -3,17 +3,17 @@
     {
       "nome": "Smartphone XYZ",
       "descrizione": "Il nostro smartphone di punta con fotocamera di alta qualità e schermo OLED da 6 pollici.",
-      "prezzo" : "600"
+      "prezzo": "600"
     },
     {
       "nome": "Laptop ABC",
-      "descrizione": "Un laptop leggero e potente con un processore quad-core e una batteria a lunga durata."
-      "prezzo" : "2000"
+      "descrizione": "Un laptop leggero e potente con un processore quad-core e una batteria a lunga durata.",
+      "prezzo": "2000"
     },
     {
       "nome": "Cuffie Wireless Z",
-      "descrizione": "Cuffie wireless con cancellazione attiva del rumore per un'esperienza audio immersiva."
-      "prezzo" : "300"
+      "descrizione": "Cuffie wireless con cancellazione attiva del rumore per un'esperienza audio immersiva.",
+      "prezzo": "300"
     }
   ]
 }
