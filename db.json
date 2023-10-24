@@ -1,16 +1,16 @@
 {
   "prodotti": [
     {
-      "nome": "Prodotto 1",
-      "descrizione": "Descrizione del Prodotto 1"
+      "nome": "Smartphone XYZ",
+      "descrizione": "Il nostro smartphone di punta con fotocamera di alta qualità e schermo OLED da 6 pollici."
     },
     {
-      "nome": "Prodotto 2",
-      "descrizione": "Descrizione del Prodotto 2"
+      "nome": "Laptop ABC",
+      "descrizione": "Un laptop leggero e potente con un processore quad-core e una batteria a lunga durata."
     },
     {
-      "nome": "Prodotto 3",
-      "descrizione": "Descrizione del Prodotto 3"
+      "nome": "Cuffie Wireless Z",
+      "descrizione": "Cuffie wireless con cancellazione attiva del rumore per un'esperienza audio immersiva."
     }
   ]
 }
